@@ -1,0 +1,11 @@
+{
+  "name": "first_contract",
+  "author": "Hayden Rose https://github.com/hayden4r4",
+  "devDependencies": {
+    "@shardlabs/starknet-hardhat-plugin": "^0.3.8",
+    "ts-node": "^10.4.0"
+  },
+  "dependencies": {
+    "typescript": "^4.5.4"
+  }
+}
